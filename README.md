@@ -51,10 +51,10 @@ I build **responsive, interactive, and secure web applications**, focusing on **
 
 ## 📫 Reach Me
 
-<p align="center">
+<p align="center" >
   <a href="mailto:esraasaidwork@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://linkedin.com/in/esraa-said-152516249" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
   </a>
