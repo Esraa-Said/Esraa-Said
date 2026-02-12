@@ -10,9 +10,7 @@
 ## 👩‍💻 About Me
 
 I am a **Computer Engineering graduate** with hands-on experience in **full-stack web development**.  
-I build **responsive, interactive, and secure web applications**, focusing on **clean code** and **modern best practices**.  
-
-
+I build **responsive, interactive, and secure web applications**, focusing on **clean code** and **modern best practices**.
 
 ---
 
@@ -63,13 +61,10 @@ I build **responsive, interactive, and secure web applications**, focusing on **
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Activity
-
 <p align="center">
-  
+ 
   <img src="https://streak-stats.demolab.com?user=Esraa-Said&theme=radical" />
 </p>
-
 
 ---
 
