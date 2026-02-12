@@ -63,9 +63,13 @@ I build **responsive, interactive, and secure web applications**, focusing on **
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-said&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Said&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Esraa-Said&theme=radical" />
 </p>
+
 
 ---
 
